@@ -7,4 +7,4 @@ All of the nodes actually represent a function with many constants. When trainin
 This program simulates a small neural network approximating the sin x function and we can see the model learning solely by adjusting these little parameters.
 
 
-![Example Image](ANN.jpeg)
+![Example Image](ANN.png)
